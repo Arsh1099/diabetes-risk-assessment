@@ -109,3 +109,22 @@ diabetes-risk-assessment/
 ├── requirements.txt
 ├── README.md
 └── .gitignoregit
+---
+
+## Application Screenshots
+
+### Home Screen
+
+![Home Screen](screenshots/home.png)
+
+### Low Risk Result
+
+![Low Risk](screenshots/low_risk.png)
+
+### Moderate Risk Result
+
+![Moderate Risk](screenshots/moderate_risk.png)
+
+### High Risk Result
+
+![High Risk](screenshots/high_risk.png)
